@@ -16,6 +16,14 @@
 
 * [领课教育系统-Web端](https://gitee.com/roncoocom/roncoo-education-web)
 * [学之思开源考试系统](https://github.com/mindskip/xzs)
+* [campus_bus_sys：校车订票系统](https://github.com/mox-hub/campus_bus_sys)
+* [FilmSys：移动端电影售票和管理系统](https://github.com/J1ong/FilmSys)
+* [his：安逸医院内部管理系统](https://github.com/HIS0731/his)
+* [his：智慧医院信息管理系统](https://github.com/cloveropen/his)
+* [glyxybxxtmobile：桂林医学院保修系统手机端](https://github.com/programmingwang/glyxybxxtmobile)
+* [hospital-web：医院预约挂号后台管理系统](https://github.com/YuJian95/hospital-web)
+* [bank-mall：银行理财产品销售平台](https://github.com/pixyshu/bank-mall)
+* [WechatOwnerService：hc智慧家园](https://github.com/java110/WechatOwnerService)
 * [Vue仿网易云音乐](https://gitee.com/crazybox521/vue-music)
 * [vue-netease-music：又一个高仿网易云](https://github.com/sl1673495/vue-netease-music)
 * [Vue-NeteaseCloud-WebMusicApp：Vue高仿网易云音乐](https://gitee.com/fudaosheng/Vue-NeteaseCloud-WebMusicApp)
@@ -25,6 +33,7 @@
 * [基于vue-cli搭建的仿TIM纯前端页面](https://gitee.com/zijun0505/FangTIMChunQianDuanYeMian)
 * [vue-WeChat：高仿微信](https://github.com/zhaohaodang/vue-WeChat)
 * [EleAdmin:饿了吗前端搭建的配置化后台](https://gitee.com/bfgdqch/EleAdmin)
+* **[imooc-zhihu-zheye-column：仿知乎专栏企业级项目](https://github.com/marlonchiu/imooc-zhihu-zheye-column)**
 * [avue-cli:一个基础vue的项目开发模板](https://gitee.com/smallweigit/avue-cli)
 * [maku-admin：另一个Vue项目模板](https://gitee.com/makunet/maku-admin)
 * [塔可商城：基于uniapp+springboot+vue3小程序、管理后台](https://gitee.com/running-cat/tacomall)
@@ -39,6 +48,7 @@
 
 * [molecule：用React开发的类似VSCode的编辑器](https://gitee.com/dtstack_dev_0/molecule)
 * [koodo-reader：跨平台的电子书阅读器](https://gitee.com/troyeguo/koodo-reader)
+*  **[OpenMemorize：使用React开发的背单词的应用](https://gitee.com/AdreamStudio/OpenMemorize)**
 * [instaclone：高仿instgram](https://github.com/Sandermoen/instaclone)
 * [stackoverflow-clone：高仿stackowerflow](https://github.com/salihozdemir/stackoverflow-clone)
 
@@ -48,11 +58,12 @@
 
 ### uni-app/小程序项目
 * [停车场系统小程序，新能源电动车充电系统](https://gitee.com/wangdefu/parking_system_applet?utm_source=gold_browser_extension)
+* [help：校园综合服务平台小程序前端](https://github.com/landalfYao/help)
+* [酷瓜云课堂：采用uni-app框架开发的开源网课系统](https://gitee.com/koogua/course-tencent-cloud-app)
+* [答题考试小程序](https://gitee.com/wulivicor/exam)
 * [微信小游戏子域排行榜系统cocos示例程序](https://gitee.com/xwintop/wxGameRank)
 * [WeHalo：简约风 的微信小程序版博客](https://gitee.com/aquanrun/WeHalo)
-
 * [spotify-clone-client:一个高仿Spotify Web 播放器的React项目](https://github.com/JL978/spotify-clone-client)
-
 * [react-bilibili：高仿Bilibili](https://github.com/dxx/react-bilibili)
 
 
