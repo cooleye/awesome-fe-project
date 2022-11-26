@@ -1,18 +1,16 @@
 # 前端项目收集
 
-[![awesome](https://camo.githubusercontent.com/abb97269de2982c379cbc128bba93ba724d8822bfbe082737772bd4feb59cb54/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) 
-
-
-
 > 本项目收集了开源的前端项目，给广大前端学习者和开发者提供参考
 >
 > 注：所有项目均为gitee和github开源项目，请遵循原项目开源协议使用
 
 
 
-### Vue项目
+![awesome](https://img.shields.io/badge/|-AWESOME-red?logo=Awesome Lists&logoColor=white) ![last-commit](https://img.shields.io/github/last-commit/cooleye/awesome-fe-project?color=orange) ![awesome](https://img.shields.io/badge/vue-vue.js-brightgreen?logo=Vue.js&logoColor=white)  ![awesome](https://img.shields.io/badge/react-React-blue?logo=React&logoColor=white) ![awesome](https://img.shields.io/badge/wx-小程序-brightgreen?logo=WeChat&logoColor=white)
 
 
+
+### Vue项目 
 
 * [领课教育系统-Web端](https://gitee.com/roncoocom/roncoo-education-web)
 * [学之思开源考试系统](https://github.com/mindskip/xzs)
@@ -51,7 +49,7 @@
 
 
 
-### React项目
+### React项目 
 
 * [molecule：用React开发的类似VSCode的编辑器](https://gitee.com/dtstack_dev_0/molecule)
 * [koodo-reader：跨平台的电子书阅读器](https://gitee.com/troyeguo/koodo-reader)
@@ -63,7 +61,7 @@
 
 
 
-### uni-app/小程序项目
+### uni-app/小程序项目   
 * [停车场系统小程序，新能源电动车充电系统](https://gitee.com/wangdefu/parking_system_applet?utm_source=gold_browser_extension)
 * [help：校园综合服务平台小程序前端](https://github.com/landalfYao/help)
 * [酷瓜云课堂：采用uni-app框架开发的开源网课系统](https://gitee.com/koogua/course-tencent-cloud-app)
