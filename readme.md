@@ -22,8 +22,15 @@
 * [his：智慧医院信息管理系统](https://github.com/cloveropen/his)
 * [glyxybxxtmobile：桂林医学院保修系统手机端](https://github.com/programmingwang/glyxybxxtmobile)
 * [hospital-web：医院预约挂号后台管理系统](https://github.com/YuJian95/hospital-web)
+* [基于Vue的大病保险管理系统](https://gitee.com/yyzwz/medicineSystem)
 * [bank-mall：银行理财产品销售平台](https://github.com/pixyshu/bank-mall)
 * [WechatOwnerService：hc智慧家园](https://github.com/java110/WechatOwnerService)
+* [electric-bicycle-exam:电动车考试科目一](https://github.com/Saltro/electric-bicycle-exam)
+* [共享单车时空数据分析与管理系统](https://github.com/Stefaray/ShareBike-Analysis-Management-System)
+* [Vue小区物业管理系统](https://gitee.com/coolpp/penglixiang)
+* [master-travel：Vue3+TS+Vite+AcroDesign放Airbnb](https://github.com/ZhengMaster2020/master-travel)
+* [旅游出行（Vue+Vant）](https://gitee.com/mrthinco/travel)
+* [2019-ncov-vue3-version：新型冠状病毒实时疫情(Vue3 + TypeScript)](https://github.com/xieyezi/2019-ncov-vue3-version)
 * [Vue仿网易云音乐](https://gitee.com/crazybox521/vue-music)
 * [vue-netease-music：又一个高仿网易云](https://github.com/sl1673495/vue-netease-music)
 * [Vue-NeteaseCloud-WebMusicApp：Vue高仿网易云音乐](https://gitee.com/fudaosheng/Vue-NeteaseCloud-WebMusicApp)
@@ -65,8 +72,9 @@
 * [WeHalo：简约风 的微信小程序版博客](https://gitee.com/aquanrun/WeHalo)
 * [spotify-clone-client:一个高仿Spotify Web 播放器的React项目](https://github.com/JL978/spotify-clone-client)
 * [react-bilibili：高仿Bilibili](https://github.com/dxx/react-bilibili)
+* [uniappp-fandouyin：uniapp-仿抖音短视频模版](https://github.com/UPman24/uniappp-fandouyin)
 
-
+* **[gordanTv：微信小程序-狗蛋TV](https://github.com/lishuaixingNewBee/gordanTv)**
 
 ### 前端框架
 
@@ -92,13 +100,17 @@
 
 ### 低代码和数据可视化
 
+*  [BigDataView：100套大数据可视化炫酷大屏Html5模板](https://github.com/iGaoWei/BigDataView)
 *  [go-view：Vue3搭建的低代码数据可视化开发平台](https://gitee.com/dromara/go-view?_from=gitee_search)
 *  [Vue低代码可视化表单](https://gitee.com/vdpadmin/variant-form)
 *  [H5_Dooring：H5可视化页面配置解决方](https://gitee.com/lowcode-china/h5_-dooring)
-
 * [IofTV-Screen：一个基于 vue、datav、Echart 框架的物联网可视化（大屏展示）模板](https://gitee.com/daidaibg/IofTV-Screen)
 * [GraphVis：应用于知识图谱可视化](https://gitee.com/baopengdu/GraphVis)
 * [react-big-screen ](https://gitee.com/MTrun/react-big-screen)
 * [form-generator：拖拽生成表单](https://gitee.com/mrhj/form-generator)
 * [vdesjs-drag：基于vue的可视化拖拽，代码生成工具](https://gitee.com/china-bin/vdesjs)
+
+
+
+**请持续关注，更新中。。。**
 
