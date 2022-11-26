@@ -6,7 +6,7 @@
 
 
 
-![awesome](https://img.shields.io/badge/|-AWESOME-red?logo=Awesome Lists&logoColor=white) ![last-commit](https://img.shields.io/github/last-commit/cooleye/awesome-fe-project?color=orange) ![awesome](https://img.shields.io/badge/vue-vue.js-brightgreen?logo=Vue.js&logoColor=white)  ![awesome](https://img.shields.io/badge/react-React-blue?logo=React&logoColor=white) ![awesome](https://img.shields.io/badge/wx-小程序-brightgreen?logo=WeChat&logoColor=white)
+![awesome](https://img.shields.io/badge/-AWESOME-red?logo=Awesome Lists&logoColor=white) ![last-commit](https://img.shields.io/github/last-commit/cooleye/awesome-fe-project?color=orange) ![awesome](https://img.shields.io/badge/vue-vue.js-brightgreen?logo=Vue.js&logoColor=white)  ![awesome](https://img.shields.io/badge/react-React-blue?logo=React&logoColor=white) ![awesome](https://img.shields.io/badge/wx-小程序-brightgreen?logo=WeChat&logoColor=white)
 
 
 
